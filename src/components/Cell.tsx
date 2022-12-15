@@ -12,7 +12,7 @@ const Cell = (props:CellProps) => {
             {props.type == 'firstcolumn' && 
                 <div className='first-div'>{props.title}</div>
             }
-            {props.type == 'header' && 
+            {props.type == 'inner' && 
                 <div className='inner-div'>{props.title}</div>
             }
         </>
