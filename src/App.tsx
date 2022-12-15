@@ -12,15 +12,92 @@ function App() {
   return (
     <div className="App">
       <div className='wrapper-table'>
-      {divs}
-      {divs}
-      {divs}
+        {divs}
       </div>
-      
-      
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+
+
+      <div className='my-5'>Next table</div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
+      <div className='wrapper-table'>
+        {divs}
+      </div>
       {/* <table>
         <thead>
           <tr>
+            <th>&nbsp;&nbsp;&nbsp;</th>
+            <th>&nbsp;&nbsp;&nbsp;</th>
+            <th>&nbsp;&nbsp;&nbsp;</th>
             <th>&nbsp;&nbsp;&nbsp;</th>
             <th>&nbsp;&nbsp;&nbsp;</th>
             <th>&nbsp;&nbsp;&nbsp;</th>
@@ -45,15 +122,6 @@ function App() {
             <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;</td>
-            <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
@@ -69,6 +137,24 @@ function App() {
             <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
           </tr>
           <tr>
             <td>&nbsp;&nbsp;&nbsp;</td>
@@ -81,8 +167,14 @@ function App() {
             <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
           </tr>
           <tr>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
+            <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
             <td>&nbsp;&nbsp;&nbsp;</td>
